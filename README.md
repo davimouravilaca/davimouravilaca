@@ -45,7 +45,7 @@ If you need to talk to me about any shit.
 - [![Participando do Bootcamp Formação Docker Fundamentals](https://img.shields.io/badge/Bootcamp%20Formação%20Docker%20Fundamentals-Concluindo-9cf?style=for-the-badge)](https://web.dio.me/track/formacao-docker-fundamentals)
 - [![Participei do Bootcamp Formação Cybersecurity Specialist](https://img.shields.io/badge/Formação%20Cybersecurity%20Specialist-Concluído-9cf?style=for-the-badge)](https://github.com/davimouravilaca/davimouravilaca/files/13451745/DIO.-.Certificado.-.C303A2FC.pdf)
 
-Be free to make contact, explore my repos or contribute to my evil projects.
+Feel free to make contact, explore my repos or contribute to my evil projects.
 
 ✉️ E-mail: davimouravilaca@gmail.com <br>
 🪐 Personal Page: https://davimouravilaca.github.io/
