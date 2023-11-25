@@ -5,7 +5,7 @@
 I'm a metalhead developer and a future system analist.
 
 ## About me
-Imagine a very funny also comovent history that would bring you tears of joy here. 
+Imagine a very funny also comovent history that would bring you tears of joy here.
 
 ## Social media
 
@@ -46,7 +46,7 @@ If you need to talk to me about any shit.
 - [![Participando do Programa Santander Coders 2023.2](https://img.shields.io/badge/Bootcamp%20Santander%20Coders%202023.2%20%20BackEnd-Concluindo-9cf?style=for-the-badge)](https://app.becas-santander.com/pt/program/bolsas-santander-santander-coders-2023-2-edicao)
 - [![Participando do Bootcamp Formação Docker Fundamentals](https://img.shields.io/badge/Bootcamp%20Formação%20Docker%20Fundamentals-Concluindo-9cf?style=for-the-badge)](https://web.dio.me/track/formacao-docker-fundamentals)
 - [![Participando do Bootcamp Formação React Developer](https://img.shields.io/badge/Bootcamp%20Formação%20React%20Developer-Concluindo-9cf?style=for-the-badge)](https://web.dio.me/track/formacao-react-developer)
-- [![Participei do Bootcamp Formação Cybersecurity Specialist](https://img.shields.io/badge/Formação%20Cybersecurity%20Specialist-Concluído-9cf?style=for-the-badge)](https://github.com/davimouravilaca/davimouravilaca/files/13451745/DIO.-.Certificado.-.C303A2FC.pdf)
+- [![Participei do Bootcamp Formação Cybersecurity Specialist](https://img.shields.io/badge/Formação%20Cybersecurity%20Specialist-Concluído-90EE90?style=for-the-badge)](https://github.com/davimouravilaca/davimouravilaca/files/13451745/DIO.-.Certificado.-.C303A2FC.pdf)
 
 Feel free to make contact, explore my repos or contribute to my evil projects.
 
