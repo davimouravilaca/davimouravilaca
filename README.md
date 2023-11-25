@@ -40,10 +40,12 @@ If you need to talk to me about any shit.
 
 <img width="25" src="https://user-images.githubusercontent.com/25181517/193427941-9437dbbe-376f-40dc-9573-0ef5c02a26a7.png" alt="Unity" title="Unity"/>
 
+<img width="25" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/>
+
 ## My Bootcamps
 - [![Participando do Programa Santander Coders 2023.2](https://img.shields.io/badge/Bootcamp%20Santander%20Coders%202023.2%20%20BackEnd-Concluindo-9cf?style=for-the-badge)](https://app.becas-santander.com/pt/program/bolsas-santander-santander-coders-2023-2-edicao)
 - [![Participando do Bootcamp Formação Docker Fundamentals](https://img.shields.io/badge/Bootcamp%20Formação%20Docker%20Fundamentals-Concluindo-9cf?style=for-the-badge)](https://web.dio.me/track/formacao-docker-fundamentals)
-- [![Participando do Bootcamp Formação React Developer](https://img.shields.io/badge/Bootcamp%20Formação%React%Developer-Concluindo-9cf?style=for-the-badge)](https://web.dio.me/track/formacao-react-developer)
+- [![Participando do Bootcamp Formação React Developer](https://img.shields.io/badge/Bootcamp%20Formação%20React%20Developer-Concluindo-9cf?style=for-the-badge)](https://web.dio.me/track/formacao-react-developer)
 - [![Participei do Bootcamp Formação Cybersecurity Specialist](https://img.shields.io/badge/Formação%20Cybersecurity%20Specialist-Concluído-9cf?style=for-the-badge)](https://github.com/davimouravilaca/davimouravilaca/files/13451745/DIO.-.Certificado.-.C303A2FC.pdf)
 
 Feel free to make contact, explore my repos or contribute to my evil projects.
