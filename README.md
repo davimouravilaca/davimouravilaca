@@ -48,6 +48,10 @@ If you need to talk to me about any shit.
 - [![Participando do Bootcamp Formação React Developer](https://img.shields.io/badge/Bootcamp%20Formação%20React%20Developer-Concluindo-9cf?style=for-the-badge)](https://web.dio.me/track/formacao-react-developer)
 - [![Participei do Bootcamp Formação Cybersecurity Specialist](https://img.shields.io/badge/Formação%20Cybersecurity%20Specialist-Concluído-90EE90?style=for-the-badge)](https://github.com/davimouravilaca/davimouravilaca/files/13451745/DIO.-.Certificado.-.C303A2FC.pdf)
 
+## My main projects
+- [![Horrorcraft](https://img.shields.io/badge/Horrorcraft%20Website%20-In%20Development-9cf?style=for-the-badge)](https://github.com/davimouravilaca/horrorcraft)
+- [![Horrorcraft](https://img.shields.io/badge/Nuclear%20Winterhell%20-In%20Development-9cf?style=for-the-badge)](https://github.com/davimouravilaca/nuclear-winterhell)
+
 Feel free to make contact, explore my repos or contribute to my evil projects.
 
 ✉️ E-mail: davimouravilaca@gmail.com <br>
