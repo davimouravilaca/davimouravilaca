@@ -5,7 +5,7 @@
 I'm a metalhead developer and a future system analist.
 
 ## About me
-Imagine a very funny also touching story that would bring tears of joy to you; that's definitely not my story. I'm just a full-stack dev who loves PHP, Linux, server infrastructure and hates the Beatles very much. My passion for computers and development started at a very young age, modifying Ruby code for my RPG Maker games, and later in the high school, writing Python scripts to do the homework for me :P Now, I'm studying Analysis and System Development and working as a freelancer on PHP. Thenceforth, this passion has only increased as an $i on a unconditioned for loop. <3
+Imagine a very funny also touching story that would bring tears of joy to you; that's definitely not my story. I'm just a full-stack dev who loves PHP, Linux, server infrastructure and hates the Beatles very much. My passion for computers and development started at a very young age, modifying Ruby code for my RPG Maker games, and later in the high school, writing Python scripts to do the homework for me :P Now, I'm studying Analysis and System Development and working as a freelancer on PHP. Thenceforth, this passion has only increased as an unconditioned do While loop. <3
 
 ## Social media
 
