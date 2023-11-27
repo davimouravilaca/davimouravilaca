@@ -50,7 +50,7 @@ If you need to talk to me about any shit.
 
 ## My main projects
 - [![Horrorcraft](https://img.shields.io/badge/Horrorcraft%20Website%20-In%20Development-9cf?style=for-the-badge)](https://github.com/davimouravilaca/horrorcraft)
--  [![Password Generator](https://img.shields.io/badge/Password%20Generator%20-In%20Development-9cf?style=for-the-badge)](https://github.com/davimouravilaca/password-generator)
+-  [![Password Generator](https://img.shields.io/badge/Password%20Generator%20-On%20Production-90EE90?style=for-the-badge)](http://passwordgenerator.000.pe/)
 - [![Nuclear Winterhell](https://img.shields.io/badge/Nuclear%20Winterhell%20-In%20Development-9cf?style=for-the-badge)](https://github.com/davimouravilaca/nuclear-winterhell)
 
 Feel free to make contact, explore my repos or contribute to my evil projects.
