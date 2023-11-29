@@ -45,12 +45,6 @@ If you need to talk to me about any shit.
   <h2>My Bootcamps</h2>
     <ul>
         <li>
-            <a href="https://app.becas-santander.com/pt/program/bolsas-santander-santander-coders-2023-2-edicao" target="_blank">
-                <img src="https://img.shields.io/badge/Bootcamp%20Santander%20Coders%202023.2%20%20BackEnd-Concluindo-9cf?style=for-the-badge"
-                    alt="Participando do Programa Santander Coders 2023.2">
-            </a>
-        </li>
-        <li>
             <a href="https://web.dio.me/track/formacao-docker-fundamentals" target="_blank">
                 <img src="https://img.shields.io/badge/Bootcamp%20Formação%20Docker%20Fundamentals-Concluindo-9cf?style=for-the-badge"
                     alt="Participando do Bootcamp Formação Docker Fundamentals">
