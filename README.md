@@ -42,17 +42,56 @@ If you need to talk to me about any shit.
 
 <img width="25" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/>
 
-## My Bootcamps
-- [![Participando do Programa Santander Coders 2023.2](https://img.shields.io/badge/Bootcamp%20Santander%20Coders%202023.2%20%20BackEnd-Concluindo-9cf?style=for-the-badge)](https://app.becas-santander.com/pt/program/bolsas-santander-santander-coders-2023-2-edicao)
-- [![Participando do Bootcamp Formação Docker Fundamentals](https://img.shields.io/badge/Bootcamp%20Formação%20Docker%20Fundamentals-Concluindo-9cf?style=for-the-badge)](https://web.dio.me/track/formacao-docker-fundamentals)
-- [![Participando do Bootcamp Formação React Developer](https://img.shields.io/badge/Bootcamp%20Formação%20React%20Developer-Concluindo-9cf?style=for-the-badge)](https://web.dio.me/track/formacao-react-developer)
-- [![Participei do Bootcamp Formação Cybersecurity Specialist](https://img.shields.io/badge/Formação%20Cybersecurity%20Specialist-Concluído-90EE90?style=for-the-badge)](https://github.com/davimouravilaca/davimouravilaca/files/13451745/DIO.-.Certificado.-.C303A2FC.pdf)
+  <h2>My Bootcamps</h2>
+    <ul>
+        <li>
+            <a href="https://app.becas-santander.com/pt/program/bolsas-santander-santander-coders-2023-2-edicao" target="_blank">
+                <img src="https://img.shields.io/badge/Bootcamp%20Santander%20Coders%202023.2%20%20BackEnd-Concluindo-9cf?style=for-the-badge"
+                    alt="Participando do Programa Santander Coders 2023.2">
+            </a>
+        </li>
+        <li>
+            <a href="https://web.dio.me/track/formacao-docker-fundamentals" target="_blank">
+                <img src="https://img.shields.io/badge/Bootcamp%20Formação%20Docker%20Fundamentals-Concluindo-9cf?style=for-the-badge"
+                    alt="Participando do Bootcamp Formação Docker Fundamentals">
+            </a>
+        </li>
+        <li>
+            <a href="https://web.dio.me/track/formacao-react-developer" target="_blank">
+                <img src="https://img.shields.io/badge/Bootcamp%20Formação%20React%20Developer-Concluindo-9cf?style=for-the-badge"
+                    alt="Participando do Bootcamp Formação React Developer">
+            </a>
+        </li>
+        <li>
+            <a href="https://github.com/davimouravilaca/files/13451745/DIO.-.Certificado.-.C303A2FC.pdf" target="_blank">
+                <img src="https://img.shields.io/badge/Formação%20Cybersecurity%20Specialist-Concluído-90EE90?style=for-the-badge"
+                    alt="Participei do Bootcamp Formação Cybersecurity Specialist">
+            </a>
+        </li>
+    </ul>
 
-## My main projects
-- [![Horrorcraft](https://img.shields.io/badge/Horrorcraft%20Website%20-In%20Development-9cf?style=for-the-badge)](https://github.com/davimouravilaca/horrorcraft)
--  [![Password Generator](https://img.shields.io/badge/Password%20Generator%20-On%20Production-90EE90?style=for-the-badge)](http://passwordgenerator.000.pe/)
-- [![Nuclear Winterhell](https://img.shields.io/badge/Nuclear%20Winterhell%20-In%20Development-9cf?style=for-the-badge)](https://github.com/davimouravilaca/nuclear-winterhell)
-
+  <h2>My main projects</h2>
+    <ul>
+        <li>
+            <a href="https://github.com/davimouravilaca/horrorcraft" target="_blank">
+                <img src="https://img.shields.io/badge/Horrorcraft%20Website%20-In%20Development-9cf?style=for-the-badge"
+                    alt="Horrorcraft">
+            </a>
+        </li>
+        <li>
+            <a href="http://passwordgenerator.000.pe/" target="_blank">
+                <img src="https://img.shields.io/badge/Password%20Generator%20-On%20Production-90EE90?style=for-the-badge"
+                    alt="Password Generator">
+            </a>
+        </li>
+        <li>
+            <a href="https://github.com/davimouravilaca/nuclear-winterhell" target="_blank">
+                <img src="https://img.shields.io/badge/Nuclear%20Winterhell%20-In%20Development-9cf?style=for-the-badge"
+                    alt="Nuclear Winterhell">
+            </a>
+        </li>
+    </ul>
+    
 Feel free to make contact, explore my repos or contribute to my evil projects.
 
 ✉️ E-mail: davimouravilaca@gmail.com <br>
