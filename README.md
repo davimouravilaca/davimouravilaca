@@ -40,20 +40,12 @@ If you need to talk to me about any shit.
 
 <img width="25" src="https://user-images.githubusercontent.com/25181517/193427941-9437dbbe-376f-40dc-9573-0ef5c02a26a7.png" alt="Unity" title="Unity"/>
 
-<img width="25" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="React" title="React"/>
-
   <h2>My Bootcamps</h2>
     <ul>
         <li>
             <a href="https://web.dio.me/track/formacao-docker-fundamentals" target="_blank">
                 <img src="https://img.shields.io/badge/Bootcamp%20Formação%20Docker%20Fundamentals-Concluindo-9cf?style=for-the-badge"
                     alt="Participando do Bootcamp Formação Docker Fundamentals">
-            </a>
-        </li>
-        <li>
-            <a href="https://web.dio.me/track/formacao-react-developer" target="_blank">
-                <img src="https://img.shields.io/badge/Bootcamp%20Formação%20React%20Developer-Concluindo-9cf?style=for-the-badge"
-                    alt="Participando do Bootcamp Formação React Developer">
             </a>
         </li>
         <li>
