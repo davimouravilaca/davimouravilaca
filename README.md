@@ -64,26 +64,20 @@ If you need to talk to me about any shit.
                     alt="Horrorcraft">
             </a>
         </li>
-        <li>
-            <a href="https://github.com/davimouravilaca/nuclear-winterhell" target="_blank">
-                <img src="https://img.shields.io/badge/Nuclear%20Winterhell%20-In%20Development-9cf?style=for-the-badge"
-                    alt="Nuclear Winterhell">
-            </a>
-        </li>
-        <li>
+              <li>
             <a href="http://passwordgenerator.000.pe/" target="_blank">
             <img src="https://img.shields.io/badge/Password%20Generator%20-On%20Production-90EE90?style=for-the-badge"
             alt="Password Generator">
             </a>
         </li>
         <li>
-            <a href="http://fractalizer.000.pe/" target="_blank">
-            <img src="https://img.shields.io/badge/PHP%20fractalizer%20-On%20Production-90EE90?style=for-the-badge"
-            alt="PHP Fractalizer">
+            <a href="https://github.com/davimouravilaca/nuclear-winterhell" target="_blank">
+                <img src="https://img.shields.io/badge/Nuclear%20Winterhell%20-In%20Development-9cf?style=for-the-badge"
+                    alt="Nuclear Winterhell">
             </a>
         </li>
     </ul>
-    
+
 Feel free to make contact, explore my repos or contribute to my evil projects. May the Force be with you.
 
 ✉️ E-mail: davimouravilaca@gmail.com <br>
