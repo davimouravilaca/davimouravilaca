@@ -49,7 +49,7 @@ If you need to talk to me about any shit.
             </a>
         </li>
         <li>
-            <a href="https://github.com/davimouravilaca/files/13451745/DIO.-.Certificado.-.C303A2FC.pdf" target="_blank">
+            <a href="https://github.com/davimouravilaca/files/13451745/DIO.-.Certificado.-.C303A2FC.pdf">
                 <img src="https://img.shields.io/badge/Formação%20Cybersecurity%20Specialist-Concluído-90EE90?style=for-the-badge"
                     alt="Participei do Bootcamp Formação Cybersecurity Specialist">
             </a>
