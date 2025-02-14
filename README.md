@@ -1,6 +1,6 @@
-🌐 Analise e Desenvolvimento de Sistemas - 3° Período.🖥️
+🌐 Analise e Desenvolvimento de Sistemas - 3° Período EAD. 🖥️
 
-Estou procurando por um estágio como forma de ingressar no mercado de trabalho
+Estou procurando por um estágio como forma de ingressar no mercado  <br>
 e contribuir profissionalmente para projetos reais. 🦀
 
 
