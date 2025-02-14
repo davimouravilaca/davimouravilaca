@@ -1,6 +1,9 @@
 🌐 Analise e Desenvolvimento de Sistemas - 3° Período.🖥️
 
-Estou procurando por um estágio como forma de ingressar no mercado de trabalho e contribuir profissionalmente para projetos reais. 🦀
+Estou procurando por um estágio como forma de ingressar no mercado de trabalho
+e contribuir profissionalmente para projetos reais. 🦀
+
+
 
 ![image](https://i.pinimg.com/originals/db/6c/25/db6c257fbbfb451244070c5b15b4f609.gif)
 
