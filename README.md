@@ -1,7 +1,7 @@
 🌐 Analise e Desenvolvimento de Sistemas - 3° Período EAD. 🖥️
 
 Olá! Eu me chamo Davi Moura, gosto muito de música e tecnologia <br>
-espcialmente, back-end, desenvolvimento de games e dev-ops e estou <br> 
+especialmente back-end, desenvolvimento de games e dev-ops, e estou <br> 
 procurando por um estágio para aprimorar meus conhecimentos  <br> 
 contribuindo profissionalmente com projetos reais. 🦀
 
