@@ -1,7 +1,9 @@
 🌐 Analise e Desenvolvimento de Sistemas - 3° Período EAD. 🖥️
 
-Estou procurando por um estágio como forma de ingressar no mercado  <br>
-e contribuir profissionalmente para projetos reais. 🦀
+Olá! Eu me chamo Davi Moura, gosto muito de música e tecnologia <br>
+espcialmente, back-end, desenvolvimento de games e dev-ops e estou <br> 
+procurando por um estágio para aprimorar meus conhecimentos  <br> 
+contribuindo profissionalmente com projetos reais. 🦀
 
 
 
