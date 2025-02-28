@@ -5,9 +5,11 @@ especialmente back-end, desenvolvimento de games e dev-ops, e estou <br>
 procurando por um estágio para aprimorar meus conhecimentos  <br> 
 contribuindo profissionalmente com projetos reais. 🦀
 
+<div>
+<!--<td><img src="https://i.pinimg.com/originals/db/6c/25/db6c257fbbfb451244070c5b15b4f609.gif"></td>-->
+<td><img src="https://github.com/user-attachments/assets/10b70e9d-4bce-42fa-8b48-162d9b702e72"></td><
+</div>
 
-
-![image](https://i.pinimg.com/originals/db/6c/25/db6c257fbbfb451244070c5b15b4f609.gif)
 
 <div >
 			<td><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/php.png" alt="php" title="php"/></td>
@@ -18,8 +20,9 @@ contribuindo profissionalmente com projetos reais. 🦀
 			<td><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bootstrap.png" alt="Bootstrap" title="Bootstrap"/></td>
 			<td><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/></td>
 			<td><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/></td>
-   			<td><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rpg_maker.png" alt="RPG Maker" title="RPG Maker"/>
+			<td><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rpg_maker.png" alt="RPG Maker" title="Rpg Maker"/>
 </td>
+
 
 
 </div>
